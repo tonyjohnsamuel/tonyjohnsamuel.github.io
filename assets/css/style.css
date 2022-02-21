@@ -441,8 +441,8 @@ section {
   color: #fff;
   border-radius: 50px;
   display: inline-flex;
-  align-items: center;
-  justify-content: center;
+  align-items: left;
+  justify-content: left;
   width: 48px;
   height: 48px;
 }
